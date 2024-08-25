@@ -1,0 +1,1 @@
+# japanese_gui_flashcard
